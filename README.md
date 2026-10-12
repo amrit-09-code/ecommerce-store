@@ -20,3 +20,5 @@ A simple Ecommerce website built with Django with product listing, cart, and che
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
+made by Amrit
